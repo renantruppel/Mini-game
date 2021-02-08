@@ -1,0 +1,10 @@
+ren  |  103020  |  re  |  72114  |  JOGADOR 1
+RE  |  73144  |  renan  |  0  |  JOGADOR 1
+re  |  0  |  ren  |  128775  |  JOGADOR 2
+re  |  0  |  ren  |  257550  |  JOGADOR 2
+ren  |  0  |  re  |  257550  |  JOGADOR 2
+re  |  0  |  ren  |  257550  |  JOGADOR 2
+ren  |  0  |  re  |  257550  |  JOGADOR 2
+ren  |  0  |  re  |  85507  |  JOGADOR 2
+A  |  0  |  B  |  128775  |  JOGADOR 2
+renan  |  0  |  rennier  |  85507  |  JOGADOR 2

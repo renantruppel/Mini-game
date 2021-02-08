@@ -1,0 +1,58 @@
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe.config
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.pdb
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csprojResolveAssemblyReference.cache
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Form1.resources
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Properties.Resources.resources
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.GenerateResource.Cache
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.CoreCompileInputs.cache
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.exe
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.pdb
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Ataque.resources
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Instruções.resources
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRegras.resources
+C:\Users\trupp\Documents\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRecordes.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe.config
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.pdb
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csprojResolveAssemblyReference.cache
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Ataque.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Form1.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRecordes.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRegras.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Instruções.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Properties.Resources.resources
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.GenerateResource.Cache
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.CoreCompileInputs.cache
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.exe
+E:\final\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.pdb
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe.config
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.pdb
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csprojResolveAssemblyReference.cache
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Ataque.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Form1.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRecordes.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRegras.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Instruções.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Properties.Resources.resources
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.GenerateResource.Cache
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.CoreCompileInputs.cache
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.exe
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.pdb
+E:\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrSobre.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe.config
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.exe
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\bin\Debug\Grid_batalha.pdb
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csprojResolveAssemblyReference.cache
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Ataque.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Form1.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRecordes.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrRegras.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.FrSobre.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Instruções.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.Properties.Resources.resources
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.GenerateResource.Cache
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.csproj.CoreCompileInputs.cache
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.exe
+E:\Renan e Sabrina\Projeto do jogo\Grid_batalha\Grid_batalha\obj\Debug\Grid_batalha.pdb
